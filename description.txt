@@ -1,0 +1,1 @@
+Este repositorio tendrá todo el contenido acerca de lo que voy a aprender de Ruby.
