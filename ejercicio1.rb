@@ -13,7 +13,7 @@ color = gets.chomp
 # Le indico el color que escogió.
 puts "El color que escogiste es: " + color
 
-# Verifico que color escogió.
+# Verifico que color escogió...
 if color.downcase == "negro"
 	puts "Tu equipo es: " + equipoUno
 elsif color.downcase == "blanco"
