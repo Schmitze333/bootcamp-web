@@ -7,5 +7,5 @@ puts "Por favor, ingrese su apellido: "
 # Tomo el segundo nombre en una variable.
 nombre2 = gets.chomp # Agrego chomp para quitar el salto de línea.
 # Imprimo en la terminal un texto de bienvenida.
-puts "Hola, " + nombre + " " + nombre2 + "!"
+puts "Hola, " + nombre + " " + nombre2 + "."
 
