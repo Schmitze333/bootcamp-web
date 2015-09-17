@@ -19,5 +19,5 @@ end
 # Construye el bloque que me valide el resultado de una suma (2+5)
 
 if 7 == 2+5
-	puts "El resultado está correct -- 7"
+	puts "El resultado está correct -- 7 "
 end
